@@ -1,0 +1,7 @@
+Today i have learnt commands like grep
+Grep command is used to search and print only given words
+example i give to search command
+It will show only commands 
+how many commands words used in the paragragh
+how many lines used in paragraph
+how many character used in paragraph it will show in grep command

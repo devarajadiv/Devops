@@ -1,0 +1,37 @@
+
+  315  cd ~
+  316  cd desktop
+  317  cd devops
+  318  vi h1.sh
+  319  sh -x h1.sh
+  320  sh h1.sh
+  321  vi dir.sh
+  322  sh dir.sh
+  323  ls 
+  324  sh dir.sh
+  325  vi dir.sh
+  326  sh dir.sh
+  327  sh dir.sh divya
+  328  sh dir.sh divya1
+  329  ls
+  330  sh dir.sh divya1
+  331  vi dir.sh
+  332  sh dir.sh divya1
+  333  sh dir.sh divya
+  334  vi dir.sh
+  335  sh dir.sh divya
+  336  ls 
+  337  vi dir.sh
+  338  sh dir.sh divya
+  339  sh dir.sh d6
+  340  sh dir.sh d6
+  341  cat dir.sh
+  342  sh -x dir.sh
+  343  vi dir.sh
+  344  ls
+  345  sh -x dir.sh d6
+  346  sh dir.sh d6
+  347  sh -x dir.sh d7
+  348  ls
+  349  history > dir.sh_h1.sh_day6
+  350  history > dir.sh_h1.sh_day6.txt
